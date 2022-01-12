@@ -1,0 +1,17 @@
+ci.sidebar {
+  width: 30%;
+  float: right;
+  background-color: lightbrown;
+}
+
+.main {
+  width: 60%;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: bold;
+  float: left;
+}
+
+.pic {
+  width: 250px;
+  float: left;
+}
