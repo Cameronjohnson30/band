@@ -1,7 +1,11 @@
-ci.sidebar {
+.sidebar {
   width: 30%;
   float: right;
-  background-color: lightbrown;
+  padding: 20px;
+  border: solid crimson;
+  border-width: 20px;
+  background-color: rgb(129, 79, 32);  
+  
 }
 
 .main {
@@ -13,5 +17,8 @@ ci.sidebar {
 
 .pic {
   width: 250px;
+  padding: 20px;
+  border: solid magenta;
+  border-width: 15px;
   float: left;
 }
